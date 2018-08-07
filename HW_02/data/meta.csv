@@ -1,0 +1,23 @@
+property,value
+standardversion,http://opendata.gosmonitor.ru/standard/3.0
+identifier,7706016118-budget
+title,Бюджет ПФР: расходы и доходы
+description,Основные показатели исполнения бюджета ПФР
+creator,Пенсионный фонд Российской Федерации
+created,20150721
+modified,20180710
+subject,"бюджет, расходы, доходы"
+format,csv
+provenance,Обновленная информация за 2017 год
+valid,20181231
+publishername,Бушкова Любовь Филипповна
+publisherphone,8(495) 982-45-85
+publishermbox,LBushkova@100.pfr.ru
+data-20180710T145546-structure-20171110T144856,http://www.pfrf.ru/opendata/7706016118-budget/data-20180710T145546-structure-20171110T144856.csv
+data-20171110T144856-structure-20171110T144856,http://www.pfrf.ru/opendata/7706016118-budget/data-20171110T144856-structure-20171110T144856.csv
+data-20161006T093824-structure-20150721T124206,http://www.pfrf.ru/opendata/7706016118-budget/data-20161006T093824-structure-20150721T124206.csv
+data-20160525T092503-structure-20150721T124206,http://www.pfrf.ru/opendata/7706016118-budget/data-20160525T092503-structure-20150721T124206.csv
+data-20150721T143202-structure-20150721T124206,http://www.pfrf.ru/opendata/7706016118-budget/data-20150721T143202-structure-20150721T124206.csv
+data-20150721T124206-structure-20150721T124206,http://www.pfrf.ru/opendata/7706016118-budget/data-20150721T124206-structure-20150721T124206.csv
+structure-20171110T144856,http://www.pfrf.ru/opendata/7706016118-budget/structure-20171110T144856.csv
+structure-20150721T124206,http://www.pfrf.ru/opendata/7706016118-budget/structure-20150721T124206.csv
